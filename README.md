@@ -12,7 +12,7 @@ COMO MELHORAR O PROCESSO DE COMPRA DE ROUPAS ONLINE PARA QUE O CLIENTE TENHA UMA
 | Elton Americo Ribeiro | Back-end |
 | Guilherme Fachini | Back-end |
 | Maria Cecília de Souza Rauen | Front-end & Back-end |
-
+| William Bollner | Front-end & Back-end |
 #
 
 
