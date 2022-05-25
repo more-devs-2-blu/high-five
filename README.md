@@ -1,9 +1,10 @@
-# High-Five! 
+# High-Five! <a href="https://www.figma.com/file/B9Vzgmj0RTNf71J2gEP807/Loja-High-Five?node-id=0%3A1">
+  Protótipo Loja High-Five
+</a>
 
 
 #### Projeto: 
-FERRAMENTA QUE MELHORA A EXPERIÊNCIA DE COMPRA DE ROUPAS ONLINE VISANDO UMA ASSERTIVIDADE MAIOR NA ESCOLHA DO TAMANHO DA ROUPA, REDUZINDO O INDICADOR DE TROCA DE MERCADORIA E AUMENTANDO A CONVERSÂO.
-
+Ferramenta que visa melhoria na experiência do cliente ao realizar compras online, focando em maior assertividade na escolha do tamanho da roupa, reduzindo o indicador de troca de mercadoria e aumentando a conversão. 
 
 | Nome | Stack |
 | ------ | ------ |
