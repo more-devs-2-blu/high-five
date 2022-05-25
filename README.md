@@ -47,10 +47,10 @@ Nosso objetivo é diminuir a devolução de produtos devido a características d
 |Coletar dados das avaliações|
 |Solicitar medidas do cliente na compra para recomendação de tamanho|
 |Comparar dados do cliente com tamanho produto|
+|Aumentar a assertividade na escolha de tamanho|
 
 
 |<b>REQUISITOS NÃO-FUNCIONAIS</b>|
 | ------ |
 |Responsividade|
 |Usabilidade|
-|Aumentar a assertividade na escolha de tamanho|
