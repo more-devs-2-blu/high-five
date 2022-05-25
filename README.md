@@ -4,9 +4,9 @@
 
 Diminuir a devolução de produtos devido a características divergentes anunciadas pelo fabricante/loja com o apoio espontâneo da comunidade (clientes que já compraram o produto).
 
-<a href="https://www.figma.com/file/B9Vzgmj0RTNf71J2gEP807/Loja-High-Five?node-id=0%3A1">
-  Protótipo Loja High-Five
-</a>
+[Protótipo High-Five](https://www.figma.com/file/B9Vzgmj0RTNf71J2gEP807/Loja-High-Five?node-id=0%3A1)
+  
+
 
 <h2><b>Objetivo do Projeto</b></h2>
 Criar uma ferramenta totalmente focada na experiência do cliente ao realizar compras online, visando transmitir mais segurança e assertividade na escolha do tamanho da roupa.
@@ -30,6 +30,12 @@ Tudo isso visando reduzir o indicador de troca e devolução de mercadorias e au
 - A motivação para implementação do “range” na avaliação é devido sua facilidade e intuitividade na utilização, além de ser um componente visual agradável e moderno.
 
 
+
+#
+
+<h2><b>Documentação</b></h2>
+
+Você pode verificar a documentação completa do projeto clicando [aqui.](../caminhodorepo)
 
 #
 
