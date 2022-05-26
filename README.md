@@ -35,7 +35,7 @@ Tudo isso visando reduzir o indicador de troca e devolução de mercadorias e au
 
 <h2><b>Documentação</b></h2>
 
-Você pode verificar a documentação completa do projeto clicando [aqui.](../caminhodorepo)
+Você pode verificar a documentação completa do projeto clicando [aqui.](https://github.com/more-devs-2-blu/high-five/blob/main/BackEnd/HighFive/README.md)
 
 #
 
