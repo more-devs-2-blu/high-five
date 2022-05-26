@@ -42,11 +42,6 @@ public class CustomerReviewService {
 	
 	
 	public CustomerReviewDTO add(CustomerReviewDTO review) {
-		
-		double mediaReviews = (review.getElasticity() + review.getLengthReview() + review.getModelingReview() + review.getWaistReview())/4;
-		
-		
-		
 		return repository.save(review.convertToEntity()).convertToDTO();
 	}
 	

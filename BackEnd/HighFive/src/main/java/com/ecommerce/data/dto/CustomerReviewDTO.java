@@ -4,28 +4,28 @@ import com.ecommerce.data.entity.CustomerReview;
 
 public class CustomerReviewDTO {
 
-	private Long idCustomer;
+	private Long idCustomerReview;
 	private String referenceReview;
 	private int modelingReview;
 	private int waistReview;
 	private int lengthReview;
-	private int elasticity;
+	private int elasticityReview;
 	private ProductDTO product;
 	private CustomerDTO customer;
 	
 	public CustomerReview convertToEntity() {
-		return new CustomerReview(getId(), getReferenceReview(), getModelingReview(), getWaistReview(), getLengthReview(), getElasticity(), getProduct().convertToEntity(), getCustomer().convertToEntity());
+		return new CustomerReview(getId(), getReferenceReview(), getModelingReview(), getWaistReview(), getLengthReview(), getElasticityReview(), getProduct().convertToEntity(), getCustomer().convertToEntity());
 	}
 
-	public CustomerReviewDTO(Long idCustomer, String referenceReview, int modelingReview, int waistReview, int lengthReview,
-			int elasticity, ProductDTO product, CustomerDTO customer) {
+	public CustomerReviewDTO(Long idCustomerReview, String referenceReview, int modelingReview, int waistReview, int lengthReview,
+			int elasticityReview, ProductDTO product, CustomerDTO customer) {
 		super();
-		this.idCustomer = idCustomer;
+		this.idCustomerReview = idCustomerReview;
 		this.referenceReview = referenceReview;
 		this.modelingReview = modelingReview;
 		this.waistReview = waistReview;
 		this.lengthReview = lengthReview;
-		this.elasticity = elasticity;
+		this.elasticityReview = elasticityReview;
 		this.product = product;
 		this.customer = customer;
 	}
@@ -62,12 +62,12 @@ public class CustomerReviewDTO {
 		this.lengthReview = lengthReview;
 	}
 
-	public int getElasticity() {
-		return elasticity;
+	public int getElasticityReview() {
+		return elasticityReview;
 	}
 
-	public void setElasticity(int elasticity) {
-		this.elasticity = elasticity;
+	public void setElasticityReview(int elasticityReview) {
+		this.elasticityReview = elasticityReview;
 	}
 
 	public ProductDTO getProduct() {
@@ -87,11 +87,11 @@ public class CustomerReviewDTO {
 	}
 
 	public Long getId() {
-		return idCustomer;
+		return idCustomerReview;
 	}
 
-	public void setId(Long idCustomer) {
-		this.idCustomer = idCustomer;
+	public void setId(Long idCustomerReview) {
+		this.idCustomerReview = idCustomerReview;
 	}
 	
 

@@ -20,11 +20,13 @@ public class ProductController {
 	@Autowired
 	ProductService service;
 	
+	// Endpoint para buscar todos os produtos
 	@GetMapping
 	public List<ProductDTO> getAll() {
 		return service.getAll();
 	}
 	
+	// Endpoint para buscar um produto pelo id
 	@GetMapping("/{id}")
 	public ProductDTO productDTO(@PathVariable Long id) {
 		return service.getById(id);

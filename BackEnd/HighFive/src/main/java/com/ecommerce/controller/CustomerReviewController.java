@@ -12,9 +12,6 @@ import org.springframework.web.bind.annotation.RestController;
 import com.ecommerce.data.dto.CustomerReviewDTO;
 import com.ecommerce.service.CustomerReviewService;
 
-
-
-
 @CrossOrigin("*")
 @RestController
 @RequestMapping("/api/customer-review")
@@ -23,8 +20,10 @@ public class CustomerReviewController {
 	@Autowired
 	CustomerReviewService service;
 
+	
+	// Endpoint para buscar todos as avaliações do produto
 	@GetMapping("/{id}")
-	public List<CustomerReviewDTO> getAllByProduct(@PathVariable Long id) {		
+	public List<CustomerReviewDTO> getAllReviewByProduct(@PathVariable Long id) {		
 		return service.getAllByProduct(id);			
 	}
 	

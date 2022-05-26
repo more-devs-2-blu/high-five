@@ -18,9 +18,16 @@ public class SizeController {
 	@Autowired
 	SizeService service;
 
+	// Endpoint para buscar um tamanho
 	@GetMapping("/{id}")
 	public SizeDTO getById(@PathVariable Long id) {		
 		return service.getById(id);			
+	}
+	
+	// Endpoint para buscar o calculo do fit
+	@GetMapping("/fit/{id}")
+	public SizeDTO getFit(@PathVariable Long id) {		
+		return service.getFit(id);			
 	}
 
 }
