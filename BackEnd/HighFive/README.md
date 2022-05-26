@@ -23,3 +23,14 @@
 7. No Package Explorer selecionar a classe Main e então clicar na opção de Run as Java Application. 
 
 ````
+#### Endpoints da aplicação
+
+| Função | Método | url |
+| ------ | ------ | ------ |
+| Get All reviews by product id | GET |  http://localhost:8080/api/customer-review/{id}
+| Get All Products | GET | http://localhost:8080/api/product
+| Get Product by id | GET | http://localhost:8080/api/product/{id} 
+| Get Size by id | GET |  http://localhost:8080/api/size/{id}   
+| Get Fit | GET |  http://localhost:8080/api/size/fit/{id}
+| Create Customer | POST | http://localhost:8080/api/customer
+
