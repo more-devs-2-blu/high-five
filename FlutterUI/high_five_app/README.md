@@ -1,4 +1,3 @@
-# 
 <h1 align= "center">High Five APP - Flutter UI</h1>
 <p align= "Center">
  Apresentação visual feita utilizando Flutter/Dart para o Hackaton +DEVS2BLU.
