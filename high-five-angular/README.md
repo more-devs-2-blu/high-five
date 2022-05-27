@@ -69,7 +69,8 @@ Layout pensado em tornar a parte de avaliação algo mais simples e fácil, à f
 
 ## **Tela tabela auxiliar**
 
-<img src="https://user-images.githubusercontent.com/94243097/170620508-2b498728-c6f6-460d-b82a-540a09aa7cee.jpe" width="500">
+<img src="https://user-images.githubusercontent.com/94243097/170620856-074511a1-f2f9-4b7a-9736-43ed736ffc04.jpeg" width="500">
+
 
 #
 
