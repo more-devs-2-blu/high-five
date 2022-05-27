@@ -58,7 +58,7 @@ Layout pensado em tornar a parte de avaliação algo mais simples e fácil, à f
 ![image](https://user-images.githubusercontent.com/88169337/170609503-8c874a34-dc98-4d3b-90ca-89a6790e475c.png)
 
 
-#### Telas Desenvolvidas
+## Telas Desenvolvidas
 
 ## **Tela Produto**
 
@@ -74,6 +74,6 @@ Layout pensado em tornar a parte de avaliação algo mais simples e fácil, à f
 
 #
 
-## **Tela Avaiação**
+## **Tela Avaliação**
 
 <img src="https://user-images.githubusercontent.com/94243097/170620692-704012ca-03bd-4b2c-b635-a8db0987c24a.jpeg" width="500">
