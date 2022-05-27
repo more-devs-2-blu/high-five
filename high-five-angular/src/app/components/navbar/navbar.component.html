@@ -1,0 +1,46 @@
+
+<nav class="navbar navbar-expand-lg navbar-light" style="background-color: #c4c3c3;">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#"><b>HIGH <br> FIVE</b></a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#">Moda Feminina</a>
+          </li>
+          
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#">Moda Masculina</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#">Infantil</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#">Coleção Inverno</a>
+          </li>
+        </ul>  
+      </div>
+      <i class="fa-solid fa-bell"></i>
+
+      <div class="icons">
+        <button type="button" class="btn position-relative bi bi-bag-plus">
+          </button>
+
+         <button type="button" class="btn position-relative bi bi-bell"  [routerLink]="['/review']">
+            <span class="position-absolute top-0 start-100 translate-middle p-1 bg-danger border border-light rounded-circle">
+              <span class="visually-hidden"></span>  <!-- BOTAO DE ALERTA CASO HAJA ATIVIDADE PENDENTES -->
+            </span>
+          </button>
+          
+         <button type="button" class="btn position-relative bi bi-person-fill">
+          </button>
+     </div>
+      <!-- <button mat-raised-button matBadge="7" [matBadgeHidden]="hidden" (click)="toggleBadgeVisibility()">
+        Hide
+    </button>  TENTEI USER O HIDDEN BADGE DO ANGULAR MATERIAL -->
+    </div>
+  </nav>

@@ -1,0 +1,76 @@
+<div class="item">
+    <img
+      src="https://ph-cdn1.ecosweb.com.br/imagens01/pwa/assets/store/posthaus/img-categorias_1.jpg"
+      class="img-fluid my-5"
+      alt=""/>
+  </div>
+
+<div class="row">
+    <div class="card col-md-6 offset-md-3 offset-md-3">
+        <div class="row">
+            <h3 class="text-center"> AVALIAÇÃO </h3>
+            <hr/>
+            <div class="card-body">
+                <form (ngSubmit)="onSubmit()">
+
+                    <div class="form-group">
+                        <label>TAMANHO</label>
+                        <mat-slider (input)="onInputChange($event)" thumbLabel step="25" list="tickmarks" value="50" position="center"></mat-slider>
+                        <!-- <input type="number" class="form-control" id="name" [(ngModel)]="review.size" name="name"> -->
+                    </div>
+
+                    <div class="form-group">
+                        <label>CINTURA</label>
+                        <mat-slider (input)="onInputChange($event)" thumbLabel step="15" list="tickmarks" value="50"></mat-slider>
+                    </div>
+
+                    <div class="form-group">
+                        <label>MODELAGEM</label>
+                        <mat-slider (input)="onInputChange($event)" thumbLabel step="15" list="tickmarks" value="50"></mat-slider>
+
+                    </div>
+
+                    <div class="form-group">
+                        <label>ELASTICIDADE</label>
+                        <mat-slider (input)="onInputChange($event)" thumbLabel step="15" list="tickmarks" value="50"></mat-slider>
+                    </div>
+
+                    <br/>
+                    <button class="btn btn-success" type="submit">Submit</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<form>
+    <div>
+        <input id="rangeInput" type="range" min="0" max="200" oninput="amount.value=rangeInput.value" />
+        <input id="amount" type="number" value="100" min="0" max="0" oninput="rangeInput.value=amount.value" />
+    </div>
+</form>
+
+
+
+
+
+<mat-slider (input)="onInputChange($event)" thumbLabel step="25" list="tickmarks" value="50" position="center"></mat-slider>
+
+    <datalist id="tickmarks">
+        <option value="0" label="curto">
+        <option value="25">
+        <option value="75">
+        <option value="100" label="normal">
+        <option value="75">
+        <option value="25">
+        <option value="0" label="comprida">
+    </datalist>
+
+
+
+
+
