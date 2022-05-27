@@ -21,7 +21,27 @@
 5. Next>Finish. 
 6. Após a importação do projeto 
 7. No Package Explorer selecionar a classe Main e então clicar na opção de Run as Java Application. 
+ 
 ````
+
+## Configurando o banco de dados em Application Properties para o primeiro acesso: 
+
+````markdown
+
+spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.MySQL5InnoDBDialect
+spring.jpa.hibernate.ddl-auto = update
+
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.format_sql=true
+
+#spring.sql.init.mode=always
+spring.datasource.url = jdbc:mysql://localhost:3306/highfive?createDatabaseIfNotExist=true&serverTimezone=UTC
+spring.datasource.username = root
+spring.datasource.password = admin
+````
+
+* Atentar-se para alterar usuário e senha se necessário.
+* No primeiro acesso descomentar a linha 9, para que seja inserido uma carga inicial de informação no banco de dados. 
 
 #
 
