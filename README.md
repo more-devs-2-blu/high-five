@@ -35,7 +35,13 @@ Tudo isso visando reduzir o indicador de troca e devolução de mercadorias e au
 
 <h2><b>Documentação</b></h2>
 
-Você pode verificar a documentação completa do projeto clicando [aqui.](https://github.com/more-devs-2-blu/high-five/blob/main/BackEnd/HighFive/README.md)
+Você pode verificar as documentações acessando os links abaixo: 
+
+- [Back-End](https://github.com/more-devs-2-blu/high-five/blob/main/BackEnd/HighFive/README.md)
+
+- [Front-End](https://github.com/more-devs-2-blu/high-five/blob/main/high-five-angular/README.md)
+
+- [Flutter UI](https://github.com/more-devs-2-blu/high-five/blob/main/FlutterUI/high_five_app/README.md)
 
 #
 
