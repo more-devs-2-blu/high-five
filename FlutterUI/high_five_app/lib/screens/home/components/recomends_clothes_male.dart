@@ -16,7 +16,7 @@ class RecomendsClothesMale extends StatelessWidget {
         children: [
           RecomendClothesMaleCard(
             image: "assets/images/quinta.jpg",
-            title: "Macacão verde",
+            title: "Jaqueta Bomber",
             marca: "Vicci",
             price: 259,
             press: () {
@@ -30,7 +30,7 @@ class RecomendsClothesMale extends StatelessWidget {
           ),
           RecomendClothesMaleCard(
             image: "assets/images/sexta.jpg",
-            title: "Blazer Preto",
+            title: "Moletom Branco",
             marca: "H!5",
             price: 159,
             press: () {
