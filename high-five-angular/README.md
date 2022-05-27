@@ -37,11 +37,24 @@ Projeto criado utilizando [Angular CLI](https://github.com/angular/angular-cli) 
 
 
 
+#
+
+<h2 align="center"> Prototipação </h2>
+
+## Tela de avaliação do produto: 
+Layout pensado em tornar a parte de avaliação algo mais simples e fácil, à fim de fazer com que mais clientes façam a avaliação.
+
+![image](https://user-images.githubusercontent.com/88169337/170609013-299f8019-e16d-48eb-bb57-a9b239938b50.png)
 
 
 
+## Tela do produto:
+
+![image](https://user-images.githubusercontent.com/88169337/170609231-21656a4b-1050-451c-b70a-fab83996b214.png)
 
 
+## Assistente FIT:
 
+![image](https://user-images.githubusercontent.com/88169337/170609503-8c874a34-dc98-4d3b-90ca-89a6790e475c.png)
 
 
