@@ -31,7 +31,6 @@
 
 <p float="left">
 <img src="https://user-images.githubusercontent.com/88169337/170596362-97a18d99-bf78-48dd-a91c-7e609095611e.jpeg" width="500">
-<img src="https://user-images.githubusercontent.com/88169337/170596406-d1bc930b-fcbc-42b4-8ddd-96b907048390.jpeg" width="500">
 </p>
 
 #
