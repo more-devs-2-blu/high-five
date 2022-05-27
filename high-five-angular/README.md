@@ -58,3 +58,21 @@ Layout pensado em tornar a parte de avaliação algo mais simples e fácil, à f
 ![image](https://user-images.githubusercontent.com/88169337/170609503-8c874a34-dc98-4d3b-90ca-89a6790e475c.png)
 
 
+#### Telas Desenvolvidas
+
+## **Tela Produto**
+
+<img src="https://user-images.githubusercontent.com/94243097/170620106-a87dc69c-a395-4b22-8697-7b8a34f6b136.jpeg" width="500">
+
+
+#
+
+## **Tela tabela auxiliar**
+
+<img src="https://user-images.githubusercontent.com/94243097/170620508-2b498728-c6f6-460d-b82a-540a09aa7cee.jpe" width="500">
+
+#
+
+## **Tela Avaiação**
+
+<img src="https://user-images.githubusercontent.com/94243097/170620692-704012ca-03bd-4b2c-b635-a8db0987c24a.jpeg" width="500">
